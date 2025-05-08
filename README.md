@@ -52,6 +52,7 @@ The dashboard is created using:
 - `blinkitAnalysis.pbix`: PowerBI dashboard file
 - `BlinkIT Grocery Data.xlsx`: Source dataset
 - `README.md`: This documentation file
+- `images used/`: folder that contains the images used for icons
 
 ---
 
